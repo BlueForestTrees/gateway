@@ -7,4 +7,4 @@
       tag: blueforest/gateway:1.0.0
       pushRemote: true
       registry: index.docker.io
-timeout: 60
+timeout: 120

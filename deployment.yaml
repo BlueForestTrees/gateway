@@ -28,7 +28,7 @@ spec:
         workload.user.cattle.io/workloadselector: daemonSet-bf-gateway
     spec:
       containers:
-      - image: blueforest/gateway:1.0.0
+      - image: blueforest/gateway:1.0.1
         imagePullPolicy: Always
         name: gateway
         resources: {}
